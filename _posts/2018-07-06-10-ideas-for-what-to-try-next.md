@@ -1,9 +1,5 @@
-# 10 Ideas for What to Try Next (7/6/18)
 
-
-Hello Everyone!
-
-I just wanted to shake things up a bit by giving you some useful ideas for what to try next on your current Machine Learning side project, instead of offering ideas about new projects.
+Hello Everyone! I just wanted to shake things up a bit by giving you some useful ideas for what to try next on your current Machine Learning side project, instead of offering ideas about new projects.
 
 So, here they are!
 

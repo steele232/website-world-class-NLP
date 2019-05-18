@@ -1,8 +1,5 @@
-# Upgrading from Python 2.7 to 3.6 with Anaconda
 
-Hey Everyone!
-
-The link I originally recommended for upgrading from Python 2.7 to 3.6 was good and here it is, but I thought I would expand this topic a little bit so no one gets hung up on this.
+Hey Everyone! The link I originally recommended for upgrading from Python 2.7 to 3.6 was good and ***here it is, but I thought I would expand this topic a little bit so no one gets hung up on this.
 
 Also, I found that my Python 2.7 was insufficient to run Django 2.0 because it requires Python 3.4+ so I thought now would be a good time to give a little more detail about this. So here we go!
 

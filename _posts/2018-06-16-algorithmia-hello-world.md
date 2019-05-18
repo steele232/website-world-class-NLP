@@ -1,6 +1,7 @@
-# Algorithmia Hello World
 
-Here is the [Getting Started](https://algorithmia.com/developers/getting-started) page for Algorithmia.
+Algorithmia is a serverless machine learning model service that allows you to create what they call an "AI Layer." "The AI Layer abstracts your models from infrastructure, so you can do more of what matters as you scale."
+
+Here is the [Getting Started](https://algorithmia.com/developers/getting-started) page for Algorithmia. The Getting Started page is the usually the best place to start while trying to learn any framework, library or tech service; it can help you quickly get some experience with the product and find answers to your questions to help you know if you want to use the product or service in your future projects.
 
 ## CURL
 

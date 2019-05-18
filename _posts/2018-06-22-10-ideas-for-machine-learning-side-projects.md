@@ -1,10 +1,5 @@
-# 10 Ideas for ML Side Projects (6/22/2018)
 
-Hello Everyone!
-
-If you haven’t caught on, ML stands for Machine Learning and it’s the topic of this entire blog!
-
-So I’m about to give you 10 of my many ML side project ideas! If you have questions about them, feel free to leave them in the comments! I’m just giving you brief overviews / topics. The details of such side-projects are what you all get paid for as Machine Learning Engineers! But if you want any advice on implementing them, I’d be happy to give you some more ideas!
+Hello Everyone! Here are 10 of my many ML side project ideas! If you have questions about them, feel free to leave them in the comments! I’m just giving you brief overviews / topics. The details of such side-projects are what you all get paid for as Machine Learning Engineers! But if you want any advice on implementing them, I’d be happy to give you some more ideas!
 
 If these ideas helped you think of any ideas of your own, feel free to share with the rest of us in the Comments section!
 

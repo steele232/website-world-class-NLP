@@ -1,10 +1,5 @@
-# Mid-Course Report on Andrew Ng’s ML Course
 
-Hello Everyone!
-
-People are always wanting to get the best training in the quickest time, so that we don’t waste our precious time and money.
-
-I often hear people say things like “Are Udacity’s Courses/Nanodegrees worth it?” I don’t hear ANYBODY ask if [Andrew Ng’s Coursera.com courses](https://www.coursera.org/learn/machine-learning/home/welcome) are worth it, but I hear a lot of people recommending them. I've heard them called them “the Gold Standard” of ML courses.
+Hello Everyone! People are always wanting to get the best training in the quickest time, so that we don’t waste our precious time and money. I often hear people say things like “Are Udacity’s Courses/Nanodegrees worth it?” I don’t hear ANYBODY ask if [Andrew Ng’s Coursera.com courses](https://www.coursera.org/learn/machine-learning/home/welcome) are worth it, but I hear a lot of people recommending them. I've heard them called them “the Gold Standard” of ML courses.
 
 I recently made it to the Halfway point of Andrew Ng’s Machine Learning Course and I just wanted to share my thoughts on the course with everybody.
 

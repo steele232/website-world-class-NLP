@@ -1,4 +1,3 @@
-# What is the Difference between MAR and MCAR?
 
 I came across a couple [potentially confusing terms](https://measuringu.com/missing-data/) and decided to clarify them. They are listed below:
 

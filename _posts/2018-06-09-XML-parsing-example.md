@@ -1,9 +1,5 @@
 
-# Python XML Parsing Example
-
-Hello Everyone!
-
-Today, I want to share how to parse through XML files in Python. We will use a simple example and then use a real-life example from my experience.
+Hello Everyone! Today, I want to share how to parse through XML files in Python. We will use a simple example and then use a real-life example from my experience.
 
 ## Resources
 

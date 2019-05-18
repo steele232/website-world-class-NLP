@@ -1,6 +1,5 @@
-Hey Guys!
 
-I wanted to share a quick Machine Learning resource with you! It’s a Hello World tutorial on Youtube from a Google Developer named Josh Gordon. [Here’s the link](https://www.youtube.com/watch?v=cKxRvEZd3Mw) and I’ve embedded it below.
+Hey Guys! I wanted to share a quick Machine Learning resource with you! It’s a Hello World tutorial on Youtube from a Google Developer named Josh Gordon. [Here’s the link](https://www.youtube.com/watch?v=cKxRvEZd3Mw) and I’ve embedded it below.
 
 I’ve also included a FAQ for help.
 
